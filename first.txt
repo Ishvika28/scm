@@ -8,3 +8,4 @@ git add . - It adds all the files to the stage.
 git commit -m - It is used to commit the files by developers.
 git log - It gives information about commit with developer's name, email, time and date.
 git diff - It shows the changes in file if any made. This command helps you getting the difference between last committed file and present file.
+thanku
